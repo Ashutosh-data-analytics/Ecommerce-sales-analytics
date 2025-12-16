@@ -12,6 +12,7 @@ This project analyzes e-commerce sales, customer behavior, and order performance
 - Customers (50 records)
 - Orders (200 records)
 - Sales (500+ transaction records)
+- Raw & Processed Dataset
 
 ## 📊 Key Metrics
 - Total Sales
